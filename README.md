@@ -6,9 +6,7 @@
 Conference: 14th International Conference on Soft Computing and Pattern Recognition (SoCPaR 2022)
 Paper title: Comparative Hybrid Deep Convolutional Learning Framework with Transfer Learning for Diagnosis of Lung Cancer
 Year: 2022
-Proceedings: Proceedings will be published by Springer in the Lecture Notes in Networks and Systems", which is currently indexed by SCOPUS, INSPEC, WTI Frankfurt eG, zbMATH, SCImago and are submitted for consideration in Web of Science.
-
-
+Proceedings: Proceedings will be published by Springer in the "Lecture Notes in Networks and Systems"
 ```
 
 
