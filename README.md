@@ -1,4 +1,11 @@
-# Hybrid-InceptionResNet-v2-Transfer-Learning
+# Comparative Hybrid Deep Convolutional Learning Framework with Transfer Learning for Diagnosis of Lung Cancer
+
+
+```
+Conference: 14th International Conference on Soft Computing and Pattern Recognition (SoCPaR 2022)
+
+```
+
 
 ### Abstract
 
