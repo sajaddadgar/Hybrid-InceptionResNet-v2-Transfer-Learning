@@ -12,7 +12,7 @@ Lung cancer stands as the most common cancer in men and has 2<sup>nd</sup> rank 
 
 ### Result
 | Models  | Accuracy  | Precision | Recall | AUC | F-Score |
-| :------------ |:---------------:| -----:|
+| :------------ |:---------------:| -----:| -----:| -----:| -----:|
 | InceptionResNetV2-TL-1      | 0.8436 | 0.6878 | 0.6857 | 0.8496 | 0.6869 |
 | InceptionResNetV2-TL-2      | 0.8642 | 0.7311 | 0.7228 | 0.8985 | 0.7270 |
 | InceptionResNetV2-TL-3      | 0.8876 | 0.7902 | 0.7504 | 0.9385 | 0.7697 |
