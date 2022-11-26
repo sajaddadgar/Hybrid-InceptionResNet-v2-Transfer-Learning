@@ -32,10 +32,10 @@ Lung cancer stands as the most common cancer in men and has 2<sup>nd</sup> rank 
 Conference: 14th International Conference on Soft Computing and Pattern Recognition (SoCPaR 2022)
 SoCPaR 2022 - Paper ID: 57
 Paper title: Comparative Hybrid Deep Convolutional Learning Framework with Transfer Learning for Diagnosis of Lung Cancer
-Conference Presentation: [Youtube Link](https://youtu.be/vxzV2LjRjdA)
-
 Proceedings: Proceedings will be published by Springer in the "Lecture Notes in Networks and Systems"
 Year: 2022
 ```
+
+Conference Presentation: [Youtube Link](https://youtu.be/vxzV2LjRjdA)
 
 ###### This project has been carried out under the supervision of Dr. Mehdi Neshat from the Australian Centre for Precision Health, University of South Australia Cancer Research Institute, University of South Australia, Adelaide, SA, 5000, Australia.
